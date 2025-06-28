@@ -7,7 +7,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/zyadwael/your-repo-name.git
+git clone https://github.com/menamagdy/your-repo-name.git
 cd your-repo-name
 
 # Build the image
